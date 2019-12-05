@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tutrorial7</string>
+    <string name="enter_nama">AktivitasSQLLite</string>
+    <string name="enter_kelas">AktivitasSQLLite</string>
+    <string name="add_record">AktivitasSQLLite</string>
+    <string name="empty_list_text">AktivitasSQLLite</string>
+    <string name="btn_update">AktivitasSQLLite</string>
+    <string name="btn_delete">AktivitasSQLLite</string>
+</resources>
